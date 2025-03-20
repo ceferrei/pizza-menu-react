@@ -1,56 +1,58 @@
 # Bug-Free Pizza by Cecilia
 
-![Captura de tela do Pizza Menu](./public/pizza-menu-result.png)
+<p align="center">
+  <img src="public/pizza-menu-result.png" alt="Screenshot" width="400" />
+</p>
 
-Este é um projeto React simples que exibe um menu de uma pizzaria fictícia chamada "Bug-Free Pizza by Cecilia".
+This is a simple React project that displays a menu for a fictional pizzeria called "Bug-Free Pizza by Cecilia."
 
-## Funcionalidades
+## Features
 
-- Exibe um menu de pizzas com nome, ingredientes, preço e imagem.
-- Indica se uma pizza está esgotada.
-- Mostra o horário de funcionamento da pizzaria.
-- Permite fazer um pedido online (funcionalidade simulada).
+- Displays a pizza menu with name, ingredients, price, and image.
+- Indicates if a pizza is sold out.
+- Shows the pizzeria's opening hours.
+- Allows placing an online order (simulated functionality).
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- React (versão 19.0.0)
+- React (version 19.0.0)
 - CSS
 
-## Guia de Instalação
+## Installation Guide
 
-1.  **Pré-requisitos:**
+1. **Prerequisites:**
 
-    - Certifique-se de que você tem o Node.js e o npm (Node Package Manager) instalados no seu computador. Você pode baixar e instalar o Node.js em [https://nodejs.org/](https://nodejs.org/). O npm é instalado automaticamente com o Node.js.
+   - Make sure you have Node.js and npm (Node Package Manager) installed on your computer. You can download and install Node.js at [https://nodejs.org/](https://nodejs.org/). npm is automatically installed along with Node.js.
 
-2.  **Clone o repositório:**
+2. **Clone the repository:**
 
-    ```bash
-    git clone [https://github.com/ceferrei/pizza-menu-react.git](https://github.com/ceferrei/pizza-menu-react.git)
-    ```
+   ```bash
+   git clone [https://github.com/ceferrei/pizza-menu-react.git](https://github.com/ceferrei/pizza-menu-react.git)
+   ```
 
-3.  **Navegue até o diretório do projeto:**
+3. **Navigate to the project directory::**
 
-    ```bash
-    cd pizza-menu-react
-    ```
+   ```bash
+   cd pizza-menu-react
+   ```
 
-4.  **Instale as dependências:**
+4. **Install the dependencies::**
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
-    - Este comando irá instalar todas as dependências do projeto listadas no arquivo `package.json`.
+   - This command will install all the project dependencies listed in the `package.json` file.
 
-5.  **Inicie o servidor de desenvolvimento:**
+5. **Start the development server::**
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
-    - Este comando irá iniciar o servidor de desenvolvimento do React e abrir o projeto no seu navegador padrão em `http://localhost:3000`.
+   - This command will start the React development server and open the project in your default browser at `http://localhost:3000`.
 
-## Estrutura do Projeto
+## Project Structure
 
 pizza-menu-react/
 ├── public/
@@ -77,14 +79,6 @@ pizza-menu-react/
 ├── package-lock.json
 └── README.md
 
-## Melhorias Futuras
+## License
 
-- Adicionar um carrinho de compras.
-- Implementar um formulário de pedido real.
-- Melhorar o design e a responsividade.
-- Adicionar testes unitários e de integração.
-- Adicionar mais informaçoes sobre a pizzaria.
-
-## Licença
-
-Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
