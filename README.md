@@ -1,10 +1,6 @@
 # Bug-Free Pizza by Cecilia
 
-![Captura de tela do Pizza Menu](pizza-menu.png)
-
-![Captura de tela do Pizza Menu](public/pizza-menu.png)
-
-![Captura de tela do Pizza Menu](./pizza-menu.png)
+![Captura de tela do Pizza Menu](pizza-menu-result.png)
 
 Este é um projeto React simples que exibe um menu de uma pizzaria fictícia chamada "Bug-Free Pizza by Cecilia".
 
