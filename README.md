@@ -55,6 +55,8 @@ This is a simple React project that displays a menu for a fictional pizzeria cal
 ## Project Structure
 
 pizza-menu-react/
+
+```
 ├── public/
 │ ├── index.html
 │ └── ...
@@ -78,6 +80,7 @@ pizza-menu-react/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## License
 
